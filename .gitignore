@@ -1,0 +1,16 @@
+﻿# Node
+node_modules
+.next
+out
+
+# Flutter
+build
+.dart_tool
+
+# Env
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
