@@ -18,13 +18,13 @@ const description =
   "Dealora is a deal discovery and comparison platform that aggregates offers from multiple online merchants.";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://dealora.app"),
+  metadataBase: new URL("https://dealoraapp.com"),
   title: "Dealora — Deal Discovery & Price Comparison",
   description,
   openGraph: {
     title: "Dealora — Deal Discovery & Price Comparison",
     description,
-    url: "https://dealora.app",
+    url: "https://dealoraapp.com",
     siteName: "Dealora",
     type: "website"
   }
@@ -43,3 +43,4 @@ export default function RootLayout({
     </html>
   );
 }
+

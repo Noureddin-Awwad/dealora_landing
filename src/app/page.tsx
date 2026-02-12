@@ -20,10 +20,10 @@ export default function Home() {
               <p className="text-sm uppercase tracking-[0.2em] text-steel">Contact</p>
               <h2 className="mt-3 font-heading text-3xl sm:text-4xl">Contact</h2>
               <p className="mt-4 text-base text-slate sm:text-lg">
-                For partnerships and early access: contact@dealora.app
+                For partnerships and early access: contact@dealoraapp.com
               </p>
               <a
-                href="mailto:contact@dealora.app"
+                href="mailto:contact@dealoraapp.com"
                 className="focus-ring mt-8 inline-flex items-center justify-center rounded-full bg-ink px-6 py-3 text-sm font-semibold text-white shadow-soft transition hover:-translate-y-0.5 hover:bg-slate"
                 aria-label="Email Dealora"
               >
@@ -37,3 +37,4 @@ export default function Home() {
     </div>
   );
 }
+
