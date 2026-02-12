@@ -21,6 +21,11 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://dealoraapp.com"),
   title: "Dealora — Deal Discovery & Price Comparison",
   description,
+  verification: {
+    other: {
+      verification: "30c3660d755f908546bd31be81fbc80e"
+    }
+  },
   openGraph: {
     title: "Dealora — Deal Discovery & Price Comparison",
     description,
